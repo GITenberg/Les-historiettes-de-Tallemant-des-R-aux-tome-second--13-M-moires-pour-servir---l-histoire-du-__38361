@@ -43,6 +43,8 @@ creator:
     gutenberg_agent_id: '39956'
     url: http://www.gutenberg.org/2009/agents/39956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38361#Les-historiettes-de-Tallemant-des-R-aux-tome-second--13-M-moires-pour-servir---l-histoire-du-_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-12-21'
 gutenberg_type: Text
